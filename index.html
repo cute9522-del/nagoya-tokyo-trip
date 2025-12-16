@@ -1,149 +1,59 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Japan Trip Planner (Mobile)</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;600;700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Japan Trip</title>
   <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div class="topbar__inner">
-      <div class="brand">
-        <div class="brand__title">日本行程</div>
-        <div class="brand__subtitle">Mobile UI (Interactive)</div>
-      </div>
-      <nav class="tabs" aria-label="主選單">
-        <button class="tab" data-view="catalog">目錄</button>
-        <button class="tab tab--active" data-view="days">每日行程</button>
-        <button class="tab" data-view="traffic">交通</button>
-        <button class="tab" data-view="flights">航班</button>
-        <button class="tab" data-view="stays">住宿</button>
-        <button class="tab" data-view="cloud">雲端</button>
-      </nav>
+
+<nav class="top-nav">
+  <button>目錄</button>
+  <button>每日行程</button>
+  <button>交通</button>
+  <button>航班</button>
+  <button>住宿</button>
+  <button>雲端</button>
+</nav>
+
+<main class="app">
+  <section class="day-header">
+    <h1>Day 1</h1>
+    <div class="weather">天氣佔位</div>
+  </section>
+
+  <section class="cards">
+    <div class="card restaurant">
+      <span class="type">餐廳</span>
+      <h3>標題佔位</h3>
     </div>
-  </header>
 
-  <main class="app">
-    <section id="view-catalog" class="view" hidden>
-      <div class="panel">
-        <h1>目錄</h1>
-        <p class="muted">此頁為總覽入口（可之後改成你 Day1 目錄卡片的內容）。</p>
-        <div class="cards">
-          <button class="card card--action" data-jump="days">
-            <div class="card__title">每日行程 Day 1–8</div>
-            <div class="card__meta">點此查看每日卡片</div>
-          </button>
-          <button class="card card--action" data-jump="traffic">
-            <div class="card__title">交通</div>
-            <div class="card__meta">機場、票券、新幹線、Skyliner</div>
-          </button>
-          <button class="card card--action" data-jump="flights">
-            <div class="card__title">航班</div>
-            <div class="card__meta">去回程航班資訊與 QR/票券連結</div>
-          </button>
-          <button class="card card--action" data-jump="stays">
-            <div class="card__title">住宿</div>
-            <div class="card__meta">飯店資訊（可擴充地圖與提醒）</div>
-          </button>
-          <a class="card card--action" href="https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh" target="_blank" rel="noopener">
-            <div class="card__title">雲端（Google Drive）</div>
-            <div class="card__meta">文件／票券／QR code</div>
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <section id="view-days" class="view">
-      <div class="panel">
-        <div class="daysHeader">
-          <h1>每日行程</h1>
-          <div class="segmented" role="tablist" aria-label="天數切換">
-            <button class="seg" data-day="1">Day 1</button><button class="seg" data-day="2">Day 2</button><button class="seg" data-day="3">Day 3</button><button class="seg" data-day="4">Day 4</button><button class="seg" data-day="5">Day 5</button><button class="seg" data-day="6">Day 6</button><button class="seg" data-day="7">Day 7</button><button class="seg" data-day="8">Day 8</button>
-          </div>
-        </div>
-
-        <div id="daySummary" class="summary"></div>
-        <div id="dayCards" class="cards"></div>
-
-        <div class="hint">
-          <div class="hint__title">提示</div>
-          <div class="hint__body">
-            目前此互動版是「介面骨架」。你日後只要把各 Day 的 JSON 內容放到 <code>data/days/dayX.json</code>（或把你現有的 final JSON 覆蓋進來），就能直接渲染成卡片＋可收縮詳細頁。
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id="view-traffic" class="view" hidden>
-      <div class="panel">
-        <div class="viewTitleRow">
-          <h1>交通</h1>
-          <a class="pill" href="https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh" target="_blank" rel="noopener">雲端票券/QR</a>
-        </div>
-        <div id="trafficContent" class="cards"></div>
-      </div>
-    </section>
-
-    <section id="view-flights" class="view" hidden>
-      <div class="panel">
-        <div class="viewTitleRow">
-          <h1>航班</h1>
-          <a class="pill" href="https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh" target="_blank" rel="noopener">雲端票券/QR</a>
-        </div>
-        <div id="flightContent" class="cards"></div>
-      </div>
-    </section>
-
-    <section id="view-stays" class="view" hidden>
-      <div class="panel">
-        <h1>住宿</h1>
-        <div id="stayContent" class="cards"></div>
-      </div>
-    </section>
-
-    <section id="view-cloud" class="view" hidden>
-      <div class="panel">
-        <h1>雲端</h1>
-        <p class="muted">目前三個入口先指向同一個 Google Drive，之後你再各自替換。</p>
-        <div class="cards">
-          <a class="card card--action" href="https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh" target="_blank" rel="noopener">
-            <div class="card__title">文件</div>
-            <div class="card__meta">行程、備忘、清單</div>
-          </a>
-          <a class="card card--action" href="https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh" target="_blank" rel="noopener">
-            <div class="card__title">票券</div>
-            <div class="card__meta">門票、車票、預約</div>
-          </a>
-          <a class="card card--action" href="https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh" target="_blank" rel="noopener">
-            <div class="card__title">QR code 集中頁</div>
-            <div class="card__meta">SmartEX、登機、入園等</div>
-          </a>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <!-- modal -->
-  <div id="modal" class="modal" hidden>
-    <div class="modal__backdrop" data-close="1"></div>
-    <div class="modal__sheet" role="dialog" aria-modal="true" aria-label="詳細頁">
-      <div class="modal__header">
-        <div id="modalTitle" class="modal__title"></div>
-        <button class="iconBtn" aria-label="關閉" data-close="1">✕</button>
-      </div>
-      <div id="modalBody" class="modal__body"></div>
+    <div class="card sight">
+      <span class="type">景點</span>
+      <h3>標題佔位</h3>
     </div>
+
+    <div class="card transport">
+      <span class="type">交通</span>
+      <h3>標題佔位</h3>
+    </div>
+  </section>
+</main>
+
+<div id="detail-sheet" class="hidden">
+  <div class="sheet-header">
+    <h2>詳細頁標題</h2>
+    <button class="sheet-close">×</button>
   </div>
+  <div class="sheet-content">
+    <details>
+      <summary>展開項目標題</summary>
+      <p>內容佔位</p>
+    </details>
+  </div>
+</div>
 
-  <script>
-    window.__CONFIG__ = {
-      driveUrl: "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
-    };
-  </script>
-  <script src="assets/js/app.js"></script>
+<script src="assets/js/app.js"></script>
 </body>
 </html>
