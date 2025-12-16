@@ -1,5 +1,5 @@
 :root{
-  --bg:#fff7d6;
+  --bg:#fff6d7;
   --text:#422615;
   --text-sub:rgba(66,38,21,.65);
   --line:rgba(66,38,21,.2);
@@ -12,13 +12,6 @@
   --text:rgba(38,34,30,0.92);
   --text2:rgba(38,34,30,0.66);
   --muted:rgba(38,34,30,0.48);
-
-  --lineW:3px;
-  --shadow: 0 8px 24px rgba(0,0,0,.08);
-
-  --modalBg: rgba(0,0,0,.34);
-  --modalCardBg: rgba(255,255,255,.92);
-  --modalBorder: rgba(0,0,0,.08);
 }
 *{box-sizing:border-box}
 html,body{height:100%}
