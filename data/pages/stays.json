@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "title": "住宿",
+  "stays": [
+    {
+      "name": "Gold Stay Nagoya Sakae",
+      "city": "名古屋",
+      "dates": [
+        "2025-12-20",
+        "2025-12-23"
+      ],
+      "notes": []
+    },
+    {
+      "name": "OMO5 東京大塚 by 星野集團",
+      "city": "東京",
+      "dates": [
+        "2025-12-23",
+        "2025-12-27"
+      ],
+      "notes": []
+    }
+  ]
+}

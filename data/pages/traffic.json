@@ -1,0 +1,61 @@
+{
+  "status": "ok",
+  "title": "交通",
+  "top_link": {
+    "label": "Google Drive（票券/QR）",
+    "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+  },
+  "sections": [
+    {
+      "title": "名古屋機場 → 名鐵名古屋（μ-SKY）",
+      "bullets": [
+        "① 到機場之後再到機台購買",
+        "② 記得要購買：一般票券 +「指定席券（特別車輛券）」；也可以刷西瓜卡 + 購買指定席券",
+        "③ 迄站選「名鐵名古屋」站（可選最近三班次）",
+        "④ 去「(1)號月台搭車」",
+        "顯示語：片道きっぷ＝單程票（普通車票）／どこでもよい＝任何座位都行（不劃位）",
+        "只有日文與英文介面",
+        "（此處保留放圖片的位置，供之後補）"
+      ]
+    },
+    {
+      "title": "名古屋 → 東京（新幹線 smartEX）",
+      "bullets": [
+        "Membership ID: 4087840829",
+        "Reservation number: 2001",
+        "Departure date: Dec 23, 2025",
+        "Nagoya 17:06 → NOZOMI 246 → Tokyo 18:45",
+        "Series: N700（16 cars）／Ordinary",
+        "Seats: Car 5 Seat 1-B / 1-C / 1-D / 1-E（Adult 4）",
+        "小提醒：QR code 在記事本",
+        "（此處保留放圖片的位置，供之後補）"
+      ]
+    },
+    {
+      "title": "川越一日券（東武）",
+      "bullets": [
+        "於池袋東武旅遊服務中心購買（依行程安排）",
+        "請依官方頁面確認票種、適用範圍與兌換方式"
+      ],
+      "links": [
+        {
+          "label": "官方介紹（保留網址）",
+          "url": "https://www.tobu.co.jp/tcn/ticket/kawagoe/premium.html"
+        }
+      ]
+    },
+    {
+      "title": "Skyliner → 成田機場",
+      "bullets": [
+        "日暮里上車，車程約 40 分鐘（以當日班次為準）",
+        "請依官方頁面確認購票、指定席與乘車資訊"
+      ],
+      "links": [
+        {
+          "label": "官方介紹（保留網址）",
+          "url": "https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php"
+        }
+      ]
+    }
+  ]
+}

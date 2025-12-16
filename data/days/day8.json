@@ -1,0 +1,346 @@
+{
+  "day": 8,
+  "date": "2025-12-27",
+  "title": "川越 → 日暮里 → Skyliner → 成田（返程日）",
+  "status": "ok",
+  "theme": "移動日：東京→川越散策→成田出境；行李 AirPorter 直送成田機場",
+  "cards": [
+    {
+      "time": "07:00",
+      "title": "OMO5 東京大塚 by 星野集團",
+      "category": "住宿",
+      "tag": "出發/退房",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "退房後輕裝出發（行李已寄送）"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "OMO5 Access",
+            "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+          }
+        ]
+      }
+    },
+    {
+      "time": "08:17",
+      "title": "東武ツーリストインフォメーションセンター（池袋／東武）",
+      "category": "交通/任務",
+      "tag": "購票",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "購買川越一日票券",
+              "確認回程時間與月台"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "川越一日券官方介紹",
+            "url": "https://www.tobu.co.jp/tcn/ticket/kawagoe/premium.html"
+          }
+        ]
+      }
+    },
+    {
+      "time": "09:22",
+      "title": "Soup Stock Tokyo",
+      "category": "餐廳",
+      "tag": "早餐",
+      "detail": {
+        "sections": [
+          {
+            "title": "定位",
+            "bullets": [
+              "湯品連鎖品牌：好消化、不油膩、速度快",
+              "適合移動日＋長時間走路前的早餐"
+            ]
+          },
+          {
+            "title": "推薦必點（Menu）",
+            "bullets": [
+              "招牌濃湯（每日口味）",
+              "玉米濃湯／洋蔥湯／番茄系湯品（常見）",
+              "白飯 or 麵包（二選一）：走路多→白飯更有飽足；想清爽→麵包"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "（移動）",
+      "title": "前往川越（東武東上線）",
+      "category": "交通",
+      "tag": "約 30–40 分鐘",
+      "detail": {
+        "sections": [
+          {
+            "title": "路線",
+            "bullets": [
+              "東武東上線，約 30–40 分鐘"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "11:30-16:00",
+      "title": "川越散策區（詳細頁）",
+      "category": "區域",
+      "tag": "完整散策",
+      "detail": {
+        "sections": [
+          {
+            "title": "動線建議",
+            "bullets": [
+              "以下順序＝走路最順、不繞路（均做為可收縮段落）"
+            ]
+          },
+          {
+            "title": "冰川神社",
+            "bullets": [
+              "定位：川越最具代表性的神社，行程的第一個「安靜點」。",
+              "看什麼/做什麼： 參拜主殿／看風鈴裝飾（季節性）／走繪馬牆拍照",
+              "必看： 風鈴迴廊／戀愛相關御守區",
+              "停留建議：20–30 分鐘",
+              "小提醒： 早上人較少，拍照最好／不需要買太多御守，選一個紀念即可"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "喜多院",
+            "bullets": [
+              "定位：和冰川神社形成對比的「靜態文化點」。",
+              "看什麼/做什麼： 走寺院庭園／看建築與氛圍",
+              "必看： 本堂外觀／庭園動線",
+              "停留建議：約 20 分鐘",
+              "小提醒： 這裡偏靜，不適合趕時間拍照型行程"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "Chiikawa Mogumogu Honpo 川越",
+            "bullets": [
+              "定位：行程中的「高人氣快買點」。",
+              "買什麼： 川越限定 Chiikawa 商品／小型紀念品",
+              "停留建議：10–15 分鐘",
+              "小提醒： 若排隊超過 20 分鐘可果斷放棄／商品體積小，適合最後一天買"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "荒井武平商店",
+            "bullets": [
+              "定位：傳統老舖型伴手禮備選。",
+              "買什麼： 和菓子／傳統點心",
+              "停留建議：5–10 分鐘",
+              "小提醒： 可當「如果不想買大包裝」的替代選擇"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "Miffy Kitchen & Bakery 川越",
+            "bullets": [
+              "定位：拍照＋可愛路線的補給點。",
+              "看什麼/吃什麼： 主題麵包／角色造型甜點",
+              "停留建議：外帶為主，15 分鐘內完成",
+              "小提醒： 不建議久坐，後面還有主街可逛"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "藥師神社",
+            "bullets": [
+              "定位：「順路參拜」的小型神社。",
+              "做什麼： 快速參拜／拍入口",
+              "停留建議：約 5 分鐘"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "時之鐘",
+            "bullets": [
+              "定位：川越象徵性地標，必拍。",
+              "看什麼： 木造鐘樓／街景構圖",
+              "停留建議：拍照 5–10 分鐘",
+              "小提醒： 中午人最多，注意隨身物品"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "星巴克 川越時鐘小路店",
+            "bullets": [
+              "定位：町屋改建話題店（拍照點）。",
+              "建議： 不一定要喝／拍外觀即可",
+              "停留建議：約 5 分鐘"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "小江戶川越一番街（藏造老街）",
+            "bullets": [
+              "定位：川越核心逛街動線。",
+              "逛什麼： 傳統土產／雜貨、點心",
+              "停留建議：30–40 分鐘"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "川越布丁",
+            "bullets": [
+              "定位：插隊型甜點。",
+              "吃什麼： 原味布丁",
+              "停留建議：外帶約 5 分鐘"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "鰻魚飯 小川菊",
+            "bullets": [
+              "定位：川越代表性餐廳（看狀況）。",
+              "吃什麼： 鰻魚丼",
+              "停留建議：若排隊過長 → 放棄不影響行程完整度"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "大正浪漫夢通",
+            "bullets": [
+              "定位：散步拍照收尾段。",
+              "做什麼： 走走／拍街景"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "蓮馨寺",
+            "bullets": [
+              "定位：靜態收尾點。",
+              "停留建議：5–10 分鐘"
+            ],
+            "collapsible": true
+          },
+          {
+            "title": "川越 熊野神社",
+            "bullets": [
+              "定位：川越散策的最後一站。",
+              "小提醒： 參拜後即可準備離開川越"
+            ],
+            "collapsible": true
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "（返程）",
+      "title": "川越 → 日暮里（轉乘一次：池袋）",
+      "category": "交通",
+      "tag": "約 70–80 分鐘",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "約 70–80 分鐘",
+              "轉乘一次（池袋）"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "17:20-17:50",
+      "title": "RANMEISYA SWEETS FACTORY（エキュート日暮里店）",
+      "category": "甜點",
+      "tag": "轉車補給",
+      "detail": {
+        "sections": [
+          {
+            "title": "定位",
+            "bullets": [
+              "位於 Skyliner 上車站「日暮里」，作為返程途中甜點補給"
+            ]
+          },
+          {
+            "title": "推薦（Menu）",
+            "bullets": [
+              "招牌布丁系列（甜度不高）",
+              "和洋混合甜點（期間限定：常見奶油餡＋和菓子元素／季節水果甜點）"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "18:00（目標）",
+      "title": "Skyliner（前往成田）",
+      "category": "交通",
+      "tag": "機場快線",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "目標搭乘：18:00 班次",
+              "車程約 40 分鐘"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Skyliner 官方交通介紹",
+            "url": "https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php"
+          }
+        ]
+      }
+    },
+    {
+      "time": "18:40（約）",
+      "title": "成田國際機場（NRT）",
+      "category": "航班/出境",
+      "tag": "領行李＋報到",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "領取 Airporter 行李",
+              "辦理登機、最後採買"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "20:20",
+      "title": "BR195｜NRT → TPE",
+      "category": "航班",
+      "tag": "返程",
+      "detail": {
+        "sections": [
+          {
+            "title": "航班資訊",
+            "bullets": [
+              "起飛：20:20",
+              "抵達：23:25"
+            ]
+          }
+        ],
+        "links": []
+      }
+    }
+  ]
+}

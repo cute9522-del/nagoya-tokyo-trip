@@ -1,0 +1,129 @@
+{
+  "day": 6,
+  "date": "2025-12-25",
+  "title": "東京迪士尼海洋（Tokyo DisneySea）",
+  "status": "ok",
+  "theme": "迪士尼海洋 × 達菲20週年 × 聖誕限定",
+  "cards": [
+    {
+      "time": "07:00-08:00",
+      "title": "飯店出發 → 抵達園區",
+      "category": "交通",
+      "tag": "移動",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "飯店出發前往迪士尼海洋",
+              "建議 08:00 前抵達園區外（拍照、整隊、準備）"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "08:30-09:00",
+      "title": "入園（Tokyo DisneySea）",
+      "category": "園區",
+      "tag": "入園",
+      "detail": {
+        "sections": [
+          {
+            "title": "入園後先確認",
+            "bullets": [
+              "表演抽選（若需要）",
+              "想玩的設施等待時間"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Tokyo DisneySea 官網",
+            "url": "https://www.tokyodisneyresort.jp/en/tds/"
+          }
+        ]
+      }
+    },
+    {
+      "time": "（全天）",
+      "title": "東京迪士尼海洋｜詳細頁",
+      "category": "資訊",
+      "tag": "攻略",
+      "detail": {
+        "sections": [
+          {
+            "title": "園區總覽",
+            "bullets": [
+              "東京迪士尼海洋為東京迪士尼度假區的一部分，是全球唯一以「海洋冒險」為主題的迪士尼樂園。",
+              "園區共分為 7 大主題港口（Port of Call），結合大型遊樂設施、沉浸式表演、限定商品與特色餐飲。",
+              "本日重點關鍵字：🎄聖誕限定活動／🧸達菲與好友20週年／✨夢幻泉鄉（Fantasy Springs）／🎭表演時間需配合動線與抽選"
+            ]
+          },
+          {
+            "title": "必玩遊樂設施",
+            "bullets": [
+              "🏰 地中海港灣：翱翔：夢幻奇航（Soaring: Fantastic Flight）— 建議早上或使用 DPA；避開表演前後尖峰",
+              "🕌 阿拉伯海岸：茉莉公主的飛天魔毯 — 中午或設施空檔；通常排隊較短",
+              "🌸 夢幻泉鄉：樂佩公主天燈盛會（白天＋夜晚各一次若體力允許）",
+              "🌸 夢幻泉鄉：安娜與艾莎的冰雪之旅（本區人氣最高；建議一進園或表演空檔直衝）",
+              "🌸 夢幻泉鄉：小飛俠夢幻島歷險記（動態冒險型；可排在冰雪之旅後）"
+            ]
+          },
+          {
+            "title": "表演與活動時間（時間導向）",
+            "bullets": [
+              "🎄 星彩聖誕：20:30（夜間壓軸；建議提前 30–45 分鐘卡位）",
+              "🧸 達菲與好友多姿多彩的幸福旅程：13:10 / 15:25（建議擇一場）",
+              "⚓ 迪士尼聖誕節迎賓會：11:40 / 14:15",
+              "⚓ 堅信！～夢想之海～：19:30（夜間推薦）",
+              "🌋 夢想起飛（需抽選）：11:00 / 12:25 / 13:50 / 15:55 / 17:20（未抽中則改設施或購物）"
+            ]
+          },
+          {
+            "title": "購物清單（想買）",
+            "bullets": [
+              "地中海港灣｜Emporio：辛巴造型服飾、米奇服飾",
+              "美國海濱｜McDuck’s Department Store：達菲雪人系列（20 週年限定）"
+            ]
+          },
+          {
+            "title": "實用提醒",
+            "bullets": [
+              "表演抽選：入園後第一件事",
+              "建議安裝 Tokyo Disney Resort App",
+              "達菲商品部分熱門品項中午後可能完售",
+              "行走量大，不建議再排其他高強度行程"
+            ]
+          },
+          {
+            "title": "餐飲攻略（摘要）",
+            "bullets": [
+              "避開 12:00–13:30 尖峰；可使用行動點餐（若當日支援）",
+              "Zambini Brothers’ Ristorante：上菜快、座位多（建議 11:00 前或 14:30 後）",
+              "Casbah Food Court：咖哩穩定好吃，中午首選之一",
+              "Arendelle Royal Banquet：夢幻泉鄉最推薦餐廳（環境非常好）",
+              "Cape Cod Cook-Off：達菲造型甜點（看完達菲表演後）",
+              "小吃：Milk Stand 牛奶冰淇淋；Gondo’s Lantern 火雞腿"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Tokyo DisneySea 官網",
+            "url": "https://www.tokyodisneyresort.jp/en/tds/"
+          },
+          {
+            "label": "遊樂設施清單（官方）",
+            "url": "https://www.tokyodisneyresort.jp/en/tdr/guide/tds_attraction.html"
+          },
+          {
+            "label": "餐廳/餐點（範例：Zambini）",
+            "url": "https://www.tokyodisneyresort.jp/en/food/4197/"
+          }
+        ]
+      }
+    }
+  ]
+}

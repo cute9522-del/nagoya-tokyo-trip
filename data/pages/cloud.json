@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "title": "雲端",
+  "sections": [
+    {
+      "title": "文件",
+      "links": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+        }
+      ]
+    },
+    {
+      "title": "票券",
+      "links": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+        }
+      ]
+    },
+    {
+      "title": "QR code 集中頁",
+      "links": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1298 @@
+{
+  "meta": {
+    "generated_at": "2025-12-16T14:48:19",
+    "top_nav": [
+      "目錄",
+      "每日行程",
+      "交通",
+      "航班",
+      "住宿",
+      "雲端"
+    ]
+  },
+  "days": {
+    "day1": {
+      "day": 1,
+      "date": "2025-12-20",
+      "title": "（待補）",
+      "status": "todo",
+      "cards": []
+    },
+    "day2": {
+      "day": 2,
+      "date": "2025-12-21",
+      "title": "（待補）",
+      "status": "todo",
+      "cards": []
+    },
+    "day3": {
+      "day": 3,
+      "date": "2025-12-22",
+      "title": "吉卜力公園（需補齊 Day3 完整版）",
+      "status": "todo",
+      "cards": []
+    },
+    "day4": {
+      "day": 4,
+      "date": "2025-12-23",
+      "title": "名古屋半日＋新幹線到東京（需補齊 Day4 完整版）",
+      "status": "todo",
+      "cards": []
+    },
+    "day5": {
+      "day": 5,
+      "date": "2025-12-24",
+      "title": "三鷹吉卜力美術館＋新宿",
+      "status": "ok",
+      "theme": "文化參觀＋城市購物，節奏中等、不趕",
+      "cards": [
+        {
+          "time": "08:00",
+          "title": "OMO5 東京大塚 by 星野集團",
+          "category": "住宿",
+          "tag": "出發",
+          "display": {
+            "bullets": [
+              "今日為預約制行程，出門前需再次確認美術館入場時間與票券。"
+            ]
+          },
+          "detail": {
+            "sections": [
+              {
+                "title": "定位說明",
+                "bullets": [
+                  "今日為預約制行程，出門前需再次確認美術館入場時間與票券。"
+                ]
+              },
+              {
+                "title": "Tips",
+                "bullets": [
+                  "票券、證件務必隨身",
+                  "早上不需太趕，預留移動緩衝"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "官方資訊（OMO5 Access）",
+                "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+              }
+            ]
+          }
+        },
+        {
+          "time": "09:00",
+          "title": "W COFFEE ダブリューコーヒー／バー",
+          "category": "咖啡",
+          "tag": "早餐",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點菜單（menu）",
+                "bullets": [
+                  "拿鐵咖啡：奶泡細緻，口感順口，適合早晨暖胃",
+                  "美式咖啡：清爽不苦，搭配簡單早餐剛好",
+                  "輕食麵包"
+                ]
+              },
+              {
+                "title": "評價（reviews）",
+                "bullets": [
+                  "附近居民常去的咖啡店",
+                  "氣氛輕鬆、不過度商業化",
+                  "作為前往吉卜力美術館前的早餐很合適"
+                ]
+              },
+              {
+                "title": "小提醒（tips）",
+                "bullets": [
+                  "建議簡單吃、不要久坐",
+                  "控制在 30 分鐘內離開",
+                  "以不影響後續移動為原則"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "10:40",
+          "title": "三鷹之森吉卜力美術館（Ghibli Museum, Mitaka）",
+          "category": "景點",
+          "tag": "必看｜需預約",
+          "display": {
+            "bullets": [
+              "嚴格依票券時間入場；建議提前 15–20 分鐘抵達。",
+              "館內全面禁止拍照（僅戶外可拍）。"
+            ]
+          },
+          "detail": {
+            "sections": [
+              {
+                "title": "入場重點",
+                "bullets": [
+                  "嚴格依票券時間入場",
+                  "建議提前 15–20 分鐘抵達"
+                ]
+              },
+              {
+                "title": "必看重點（menu）",
+                "bullets": [
+                  "吉卜力動畫製作過程展示：分鏡稿、手稿到完成流程",
+                  "原創短篇動畫放映（館內限定，內容不定期更換）",
+                  "建築空間本身：螺旋樓梯、彩色玻璃、露台與中庭"
+                ]
+              },
+              {
+                "title": "推薦購買（buy）",
+                "bullets": [
+                  "館內限定原創周邊商品：文具、模型、小型收藏品",
+                  "造型紀念品（僅此販售，外部買不到）"
+                ]
+              },
+              {
+                "title": "評價（reviews）",
+                "bullets": [
+                  "世界觀完整度高，即使非鐵粉也會覺得值得",
+                  "展覽節奏偏慢、安靜，適合細看",
+                  "多數旅客認為「建築＋氛圍」本身就值回票價"
+                ]
+              },
+              {
+                "title": "小提醒（tips）",
+                "bullets": [
+                  "必須依票券指定時間入場",
+                  "建議預留 1.5–2 小時",
+                  "動線為單向流動，入館後不易回頭",
+                  "室內多數區域禁止拍照；請自行掌控時間"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "官網",
+                "url": "https://www.ghibli-museum.jp/"
+              }
+            ]
+          }
+        },
+        {
+          "time": "12:13",
+          "title": "新宿（Shinjuku）",
+          "category": "區域",
+          "tag": "逛街",
+          "detail": {
+            "sections": [
+              {
+                "title": "定位說明",
+                "bullets": [
+                  "東京最密集的商業與交通樞紐之一",
+                  "行程以「逛街＋散步」為主，不追求一次走完"
+                ]
+              },
+              {
+                "title": "可做的事",
+                "bullets": [
+                  "百貨逛街",
+                  "街區散步",
+                  "臨時插入咖啡或甜點"
+                ]
+              },
+              {
+                "title": "照片",
+                "bullets": [
+                  "【後期補照片】新宿街景"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "13:33",
+          "title": "Nara Seimen",
+          "category": "餐廳",
+          "tag": "午餐",
+          "detail": {
+            "sections": [
+              {
+                "title": "定位",
+                "bullets": [
+                  "被視為「穩定、不踩雷」的拉麵選擇",
+                  "不走浮誇路線，屬於日常型拉麵",
+                  "常被安排為逛街途中快速用餐點"
+                ]
+              },
+              {
+                "title": "必點菜單（menu）",
+                "bullets": [
+                  "招牌拉麵（依當日供應）：湯頭走清爽系，不油膩",
+                  "麵條口感偏 Q 彈，與湯頭平衡"
+                ]
+              },
+              {
+                "title": "小提醒（tips）",
+                "bullets": [
+                  "中午用餐時段可能稍有排隊"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "14:50",
+          "title": "HARE ルミネエスト（LUMINE EST）",
+          "category": "購物",
+          "tag": "服飾",
+          "detail": {
+            "sections": [
+              {
+                "title": "品牌定位",
+                "bullets": [
+                  "日系服飾品牌",
+                  "偏簡約、好搭"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "16:13",
+          "title": "Kenyan Shibuya",
+          "category": "咖啡",
+          "tag": "下午咖啡",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點菜單（menu）",
+                "bullets": [
+                  "深焙手沖黑咖啡：焙度高、苦韻明顯，香氣厚實",
+                  "招牌咖啡（依店內推薦）"
+                ]
+              },
+              {
+                "title": "評價（reviews）",
+                "bullets": [
+                  "東京老派咖啡館代表之一",
+                  "裝潢簡單，重點放在咖啡本身",
+                  "常被咖啡愛好者列為「專程來喝一杯」的店"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "17:50",
+          "title": "OMO5 東京大塚 by 星野集團",
+          "category": "住宿",
+          "tag": "回飯店",
+          "detail": {
+            "sections": [
+              {
+                "title": "定位說明",
+                "bullets": [
+                  "下午行程結束後返回飯店休息，為隔日行程（Day 6）保留體力。"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "官方資訊（OMO5 Access）",
+                "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "day6": {
+      "day": 6,
+      "date": "2025-12-25",
+      "title": "東京迪士尼海洋（Tokyo DisneySea）",
+      "status": "ok",
+      "theme": "迪士尼海洋 × 達菲20週年 × 聖誕限定",
+      "cards": [
+        {
+          "time": "07:00-08:00",
+          "title": "飯店出發 → 抵達園區",
+          "category": "交通",
+          "tag": "移動",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "飯店出發前往迪士尼海洋",
+                  "建議 08:00 前抵達園區外（拍照、整隊、準備）"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "08:30-09:00",
+          "title": "入園（Tokyo DisneySea）",
+          "category": "園區",
+          "tag": "入園",
+          "detail": {
+            "sections": [
+              {
+                "title": "入園後先確認",
+                "bullets": [
+                  "表演抽選（若需要）",
+                  "想玩的設施等待時間"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "Tokyo DisneySea 官網",
+                "url": "https://www.tokyodisneyresort.jp/en/tds/"
+              }
+            ]
+          }
+        },
+        {
+          "time": "（全天）",
+          "title": "東京迪士尼海洋｜詳細頁",
+          "category": "資訊",
+          "tag": "攻略",
+          "detail": {
+            "sections": [
+              {
+                "title": "園區總覽",
+                "bullets": [
+                  "東京迪士尼海洋為東京迪士尼度假區的一部分，是全球唯一以「海洋冒險」為主題的迪士尼樂園。",
+                  "園區共分為 7 大主題港口（Port of Call），結合大型遊樂設施、沉浸式表演、限定商品與特色餐飲。",
+                  "本日重點關鍵字：🎄聖誕限定活動／🧸達菲與好友20週年／✨夢幻泉鄉（Fantasy Springs）／🎭表演時間需配合動線與抽選"
+                ]
+              },
+              {
+                "title": "必玩遊樂設施",
+                "bullets": [
+                  "🏰 地中海港灣：翱翔：夢幻奇航（Soaring: Fantastic Flight）— 建議早上或使用 DPA；避開表演前後尖峰",
+                  "🕌 阿拉伯海岸：茉莉公主的飛天魔毯 — 中午或設施空檔；通常排隊較短",
+                  "🌸 夢幻泉鄉：樂佩公主天燈盛會（白天＋夜晚各一次若體力允許）",
+                  "🌸 夢幻泉鄉：安娜與艾莎的冰雪之旅（本區人氣最高；建議一進園或表演空檔直衝）",
+                  "🌸 夢幻泉鄉：小飛俠夢幻島歷險記（動態冒險型；可排在冰雪之旅後）"
+                ]
+              },
+              {
+                "title": "表演與活動時間（時間導向）",
+                "bullets": [
+                  "🎄 星彩聖誕：20:30（夜間壓軸；建議提前 30–45 分鐘卡位）",
+                  "🧸 達菲與好友多姿多彩的幸福旅程：13:10 / 15:25（建議擇一場）",
+                  "⚓ 迪士尼聖誕節迎賓會：11:40 / 14:15",
+                  "⚓ 堅信！～夢想之海～：19:30（夜間推薦）",
+                  "🌋 夢想起飛（需抽選）：11:00 / 12:25 / 13:50 / 15:55 / 17:20（未抽中則改設施或購物）"
+                ]
+              },
+              {
+                "title": "購物清單（想買）",
+                "bullets": [
+                  "地中海港灣｜Emporio：辛巴造型服飾、米奇服飾",
+                  "美國海濱｜McDuck’s Department Store：達菲雪人系列（20 週年限定）"
+                ]
+              },
+              {
+                "title": "實用提醒",
+                "bullets": [
+                  "表演抽選：入園後第一件事",
+                  "建議安裝 Tokyo Disney Resort App",
+                  "達菲商品部分熱門品項中午後可能完售",
+                  "行走量大，不建議再排其他高強度行程"
+                ]
+              },
+              {
+                "title": "餐飲攻略（摘要）",
+                "bullets": [
+                  "避開 12:00–13:30 尖峰；可使用行動點餐（若當日支援）",
+                  "Zambini Brothers’ Ristorante：上菜快、座位多（建議 11:00 前或 14:30 後）",
+                  "Casbah Food Court：咖哩穩定好吃，中午首選之一",
+                  "Arendelle Royal Banquet：夢幻泉鄉最推薦餐廳（環境非常好）",
+                  "Cape Cod Cook-Off：達菲造型甜點（看完達菲表演後）",
+                  "小吃：Milk Stand 牛奶冰淇淋；Gondo’s Lantern 火雞腿"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "Tokyo DisneySea 官網",
+                "url": "https://www.tokyodisneyresort.jp/en/tds/"
+              },
+              {
+                "label": "遊樂設施清單（官方）",
+                "url": "https://www.tokyodisneyresort.jp/en/tdr/guide/tds_attraction.html"
+              },
+              {
+                "label": "餐廳/餐點（範例：Zambini）",
+                "url": "https://www.tokyodisneyresort.jp/en/food/4197/"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "day7": {
+      "day": 7,
+      "date": "2025-12-26",
+      "title": "銀座 × 日本橋 × 淺草",
+      "status": "ok",
+      "theme": "甜點名店＋選物購物＋淺草散策（行李任務：Ginza Karen 行李箱）",
+      "cards": [
+        {
+          "time": "08:00",
+          "title": "OMO5 東京大塚 by 星野集團",
+          "category": "住宿",
+          "tag": "出發/退房",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "退房後出發，建議輕裝",
+                  "今日購物多，注意背包空間"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "OMO5 Access",
+                "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+              }
+            ]
+          }
+        },
+        {
+          "time": "09:26",
+          "title": "No.4",
+          "category": "咖啡/早午餐",
+          "tag": "必吃",
+          "detail": {
+            "sections": [
+              {
+                "title": "定位",
+                "bullets": [
+                  "東京代表性的烘焙系早午餐名店（近麴町・市谷一帶）",
+                  "以「麵包品質本位」聞名，咖啡與烘焙圈評價高"
+                ]
+              },
+              {
+                "title": "推薦必點（Menu）",
+                "bullets": [
+                  "酸種麵包搭配奶油與果醬（招牌）",
+                  "可頌（層次清楚、不油膩）",
+                  "手沖/美式咖啡",
+                  "炒蛋＋香腸＋培根全套早餐"
+                ]
+              },
+              {
+                "title": "小提醒",
+                "bullets": [
+                  "建議一開店就到，熱門時段需排隊",
+                  "用餐時間約 60–90 分鐘；快吃、不久坐"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "10:46",
+          "title": "bills Ginza",
+          "category": "甜點/早午餐",
+          "tag": "招牌名店",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "銀座店空間舒適、採光好",
+                  "招牌為 Ricotta Pancake（瑞可達鬆餅）"
+                ]
+              },
+              {
+                "title": "推薦必點（Menu）",
+                "bullets": [
+                  "Ricotta Pancake（蜂蜜＋香蕉）",
+                  "炒蛋早餐盤",
+                  "酪梨早餐盤",
+                  "Flat White/拿鐵"
+                ]
+              },
+              {
+                "title": "小提醒",
+                "bullets": [
+                  "排隊時間不固定（假日較久）"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "11:50",
+          "title": "noix de beurre Ginza Mitsukoshi",
+          "category": "甜點/伴手禮",
+          "tag": "必買",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點（menu）",
+                "bullets": [
+                  "現烤費南雪（原味/抹茶）",
+                  "Madeleine（瑪德蓮）"
+                ]
+              },
+              {
+                "title": "推薦購買（buy）",
+                "bullets": [
+                  "費南雪禮盒（保質期短但風味最佳）"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "12:14",
+          "title": "PUDDING LAB",
+          "category": "甜點",
+          "tag": "布丁",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點（menu）",
+                "bullets": [
+                  "原味焦糖布丁",
+                  "濃厚雞蛋布丁"
+                ]
+              },
+              {
+                "title": "推薦購買（buy）",
+                "bullets": [
+                  "布丁禮盒（冷藏）"
+                ]
+              },
+              {
+                "title": "小提醒（tips）",
+                "bullets": [
+                  "需冷藏，注意後續行程時間",
+                  "建議即買即吃"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "12:38",
+          "title": "覺王山水果大福 弁才天（GINZA SIX）",
+          "category": "甜點",
+          "tag": "話題名店",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點（menu）",
+                "bullets": [
+                  "草莓大福",
+                  "季節限定水果大福（葡萄/哈密瓜）"
+                ]
+              },
+              {
+                "title": "小提醒（tips）",
+                "bullets": [
+                  "建議現吃，口感最佳"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "13:08",
+          "title": "五代目 花山烏冬 銀座店",
+          "category": "午餐",
+          "tag": "必吃",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點（menu）",
+                "bullets": [
+                  "鬼寬烏龍麵（招牌）",
+                  "冷烏龍沾麵"
+                ]
+              },
+              {
+                "title": "小提醒（tips）",
+                "bullets": [
+                  "用餐尖峰需排隊",
+                  "麵條較有嚼勁，適合喜歡口感派的人"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "14:13",
+          "title": "銀座",
+          "category": "商圈",
+          "tag": "購物重點",
+          "detail": {
+            "sections": [
+              {
+                "title": "百貨集中",
+                "bullets": [
+                  "銀座三越",
+                  "GINZA SIX",
+                  "松屋銀座"
+                ]
+              },
+              {
+                "title": "可逛品牌",
+                "bullets": [
+                  "日系服飾、香氛、文具、伴手禮"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "15:30",
+          "title": "BONGEN COFFEE Tokyo Nihonbashi",
+          "category": "咖啡",
+          "tag": "靜態休息",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點（menu）",
+                "bullets": [
+                  "Hand-drip 咖啡",
+                  "抹茶拿鐵"
+                ]
+              },
+              {
+                "title": "小提醒（tips）",
+                "bullets": [
+                  "座位少，多為外帶",
+                  "適合短停 20–30 分鐘"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "16:14",
+          "title": "Ginza Karen",
+          "category": "購物",
+          "tag": "任務：買行李箱",
+          "detail": {
+            "sections": [
+              {
+                "title": "備註",
+                "bullets": [
+                  "確認尺寸是否符合回程航空規範",
+                  "可詢問退稅"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "17:05",
+          "title": "淺草",
+          "category": "區域",
+          "tag": "散策",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "傍晚氛圍佳，可慢慢走、拍照"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "17:15",
+          "title": "Milk no Ki",
+          "category": "甜點",
+          "tag": "休息",
+          "detail": {
+            "sections": [
+              {
+                "title": "必點（menu）",
+                "bullets": [
+                  "牛奶冰淇淋",
+                  "牛奶布丁"
+                ]
+              },
+              {
+                "title": "評價（reviews）",
+                "bullets": [
+                  "牛奶風味自然不膩",
+                  "適合作為晚間甜點收尾"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "18:57",
+          "title": "上野阿美橫町",
+          "category": "商圈",
+          "tag": "晚間逛街",
+          "detail": {
+            "sections": [
+              {
+                "title": "可補貨",
+                "bullets": [
+                  "零食",
+                  "藥妝",
+                  "小物"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "20:26",
+          "title": "OMO5 東京大塚 by 星野集團",
+          "category": "住宿",
+          "tag": "返回",
+          "detail": {
+            "sections": [
+              {
+                "title": "備註",
+                "bullets": [
+                  "回飯店整理戰利品",
+                  "隔天為川越＋返程準備"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "OMO5 Access",
+                "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "day8": {
+      "day": 8,
+      "date": "2025-12-27",
+      "title": "川越 → 日暮里 → Skyliner → 成田（返程日）",
+      "status": "ok",
+      "theme": "移動日：東京→川越散策→成田出境；行李 AirPorter 直送成田機場",
+      "cards": [
+        {
+          "time": "07:00",
+          "title": "OMO5 東京大塚 by 星野集團",
+          "category": "住宿",
+          "tag": "出發/退房",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "退房後輕裝出發（行李已寄送）"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "OMO5 Access",
+                "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+              }
+            ]
+          }
+        },
+        {
+          "time": "08:17",
+          "title": "東武ツーリストインフォメーションセンター（池袋／東武）",
+          "category": "交通/任務",
+          "tag": "購票",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "購買川越一日票券",
+                  "確認回程時間與月台"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "川越一日券官方介紹",
+                "url": "https://www.tobu.co.jp/tcn/ticket/kawagoe/premium.html"
+              }
+            ]
+          }
+        },
+        {
+          "time": "09:22",
+          "title": "Soup Stock Tokyo",
+          "category": "餐廳",
+          "tag": "早餐",
+          "detail": {
+            "sections": [
+              {
+                "title": "定位",
+                "bullets": [
+                  "湯品連鎖品牌：好消化、不油膩、速度快",
+                  "適合移動日＋長時間走路前的早餐"
+                ]
+              },
+              {
+                "title": "推薦必點（Menu）",
+                "bullets": [
+                  "招牌濃湯（每日口味）",
+                  "玉米濃湯／洋蔥湯／番茄系湯品（常見）",
+                  "白飯 or 麵包（二選一）：走路多→白飯更有飽足；想清爽→麵包"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "（移動）",
+          "title": "前往川越（東武東上線）",
+          "category": "交通",
+          "tag": "約 30–40 分鐘",
+          "detail": {
+            "sections": [
+              {
+                "title": "路線",
+                "bullets": [
+                  "東武東上線，約 30–40 分鐘"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "11:30-16:00",
+          "title": "川越散策區（詳細頁）",
+          "category": "區域",
+          "tag": "完整散策",
+          "detail": {
+            "sections": [
+              {
+                "title": "動線建議",
+                "bullets": [
+                  "以下順序＝走路最順、不繞路（均做為可收縮段落）"
+                ]
+              },
+              {
+                "title": "冰川神社",
+                "bullets": [
+                  "定位：川越最具代表性的神社，行程的第一個「安靜點」。",
+                  "看什麼/做什麼： 參拜主殿／看風鈴裝飾（季節性）／走繪馬牆拍照",
+                  "必看： 風鈴迴廊／戀愛相關御守區",
+                  "停留建議：20–30 分鐘",
+                  "小提醒： 早上人較少，拍照最好／不需要買太多御守，選一個紀念即可"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "喜多院",
+                "bullets": [
+                  "定位：和冰川神社形成對比的「靜態文化點」。",
+                  "看什麼/做什麼： 走寺院庭園／看建築與氛圍",
+                  "必看： 本堂外觀／庭園動線",
+                  "停留建議：約 20 分鐘",
+                  "小提醒： 這裡偏靜，不適合趕時間拍照型行程"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "Chiikawa Mogumogu Honpo 川越",
+                "bullets": [
+                  "定位：行程中的「高人氣快買點」。",
+                  "買什麼： 川越限定 Chiikawa 商品／小型紀念品",
+                  "停留建議：10–15 分鐘",
+                  "小提醒： 若排隊超過 20 分鐘可果斷放棄／商品體積小，適合最後一天買"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "荒井武平商店",
+                "bullets": [
+                  "定位：傳統老舖型伴手禮備選。",
+                  "買什麼： 和菓子／傳統點心",
+                  "停留建議：5–10 分鐘",
+                  "小提醒： 可當「如果不想買大包裝」的替代選擇"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "Miffy Kitchen & Bakery 川越",
+                "bullets": [
+                  "定位：拍照＋可愛路線的補給點。",
+                  "看什麼/吃什麼： 主題麵包／角色造型甜點",
+                  "停留建議：外帶為主，15 分鐘內完成",
+                  "小提醒： 不建議久坐，後面還有主街可逛"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "藥師神社",
+                "bullets": [
+                  "定位：「順路參拜」的小型神社。",
+                  "做什麼： 快速參拜／拍入口",
+                  "停留建議：約 5 分鐘"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "時之鐘",
+                "bullets": [
+                  "定位：川越象徵性地標，必拍。",
+                  "看什麼： 木造鐘樓／街景構圖",
+                  "停留建議：拍照 5–10 分鐘",
+                  "小提醒： 中午人最多，注意隨身物品"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "星巴克 川越時鐘小路店",
+                "bullets": [
+                  "定位：町屋改建話題店（拍照點）。",
+                  "建議： 不一定要喝／拍外觀即可",
+                  "停留建議：約 5 分鐘"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "小江戶川越一番街（藏造老街）",
+                "bullets": [
+                  "定位：川越核心逛街動線。",
+                  "逛什麼： 傳統土產／雜貨、點心",
+                  "停留建議：30–40 分鐘"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "川越布丁",
+                "bullets": [
+                  "定位：插隊型甜點。",
+                  "吃什麼： 原味布丁",
+                  "停留建議：外帶約 5 分鐘"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "鰻魚飯 小川菊",
+                "bullets": [
+                  "定位：川越代表性餐廳（看狀況）。",
+                  "吃什麼： 鰻魚丼",
+                  "停留建議：若排隊過長 → 放棄不影響行程完整度"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "大正浪漫夢通",
+                "bullets": [
+                  "定位：散步拍照收尾段。",
+                  "做什麼： 走走／拍街景"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "蓮馨寺",
+                "bullets": [
+                  "定位：靜態收尾點。",
+                  "停留建議：5–10 分鐘"
+                ],
+                "collapsible": true
+              },
+              {
+                "title": "川越 熊野神社",
+                "bullets": [
+                  "定位：川越散策的最後一站。",
+                  "小提醒： 參拜後即可準備離開川越"
+                ],
+                "collapsible": true
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "（返程）",
+          "title": "川越 → 日暮里（轉乘一次：池袋）",
+          "category": "交通",
+          "tag": "約 70–80 分鐘",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "約 70–80 分鐘",
+                  "轉乘一次（池袋）"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "17:20-17:50",
+          "title": "RANMEISYA SWEETS FACTORY（エキュート日暮里店）",
+          "category": "甜點",
+          "tag": "轉車補給",
+          "detail": {
+            "sections": [
+              {
+                "title": "定位",
+                "bullets": [
+                  "位於 Skyliner 上車站「日暮里」，作為返程途中甜點補給"
+                ]
+              },
+              {
+                "title": "推薦（Menu）",
+                "bullets": [
+                  "招牌布丁系列（甜度不高）",
+                  "和洋混合甜點（期間限定：常見奶油餡＋和菓子元素／季節水果甜點）"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "18:00（目標）",
+          "title": "Skyliner（前往成田）",
+          "category": "交通",
+          "tag": "機場快線",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "目標搭乘：18:00 班次",
+                  "車程約 40 分鐘"
+                ]
+              }
+            ],
+            "links": [
+              {
+                "label": "Skyliner 官方交通介紹",
+                "url": "https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php"
+              }
+            ]
+          }
+        },
+        {
+          "time": "18:40（約）",
+          "title": "成田國際機場（NRT）",
+          "category": "航班/出境",
+          "tag": "領行李＋報到",
+          "detail": {
+            "sections": [
+              {
+                "title": "重點",
+                "bullets": [
+                  "領取 Airporter 行李",
+                  "辦理登機、最後採買"
+                ]
+              }
+            ],
+            "links": []
+          }
+        },
+        {
+          "time": "20:20",
+          "title": "BR195｜NRT → TPE",
+          "category": "航班",
+          "tag": "返程",
+          "detail": {
+            "sections": [
+              {
+                "title": "航班資訊",
+                "bullets": [
+                  "起飛：20:20",
+                  "抵達：23:25"
+                ]
+              }
+            ],
+            "links": []
+          }
+        }
+      ]
+    }
+  },
+  "pages": {
+    "catalog": {
+      "status": "placeholder",
+      "content": []
+    },
+    "traffic": {
+      "status": "ok",
+      "title": "交通",
+      "top_link": {
+        "label": "Google Drive（票券/QR）",
+        "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+      },
+      "sections": [
+        {
+          "title": "名古屋機場 → 名鐵名古屋（μ-SKY）",
+          "bullets": [
+            "① 到機場之後再到機台購買",
+            "② 記得要購買：一般票券 +「指定席券（特別車輛券）」；也可以刷西瓜卡 + 購買指定席券",
+            "③ 迄站選「名鐵名古屋」站（可選最近三班次）",
+            "④ 去「(1)號月台搭車」",
+            "顯示語：片道きっぷ＝單程票（普通車票）／どこでもよい＝任何座位都行（不劃位）",
+            "只有日文與英文介面",
+            "（此處保留放圖片的位置，供之後補）"
+          ]
+        },
+        {
+          "title": "名古屋 → 東京（新幹線 smartEX）",
+          "bullets": [
+            "Membership ID: 4087840829",
+            "Reservation number: 2001",
+            "Departure date: Dec 23, 2025",
+            "Nagoya 17:06 → NOZOMI 246 → Tokyo 18:45",
+            "Series: N700（16 cars）／Ordinary",
+            "Seats: Car 5 Seat 1-B / 1-C / 1-D / 1-E（Adult 4）",
+            "小提醒：QR code 在記事本",
+            "（此處保留放圖片的位置，供之後補）"
+          ]
+        },
+        {
+          "title": "川越一日券（東武）",
+          "bullets": [
+            "於池袋東武旅遊服務中心購買（依行程安排）",
+            "請依官方頁面確認票種、適用範圍與兌換方式"
+          ],
+          "links": [
+            {
+              "label": "官方介紹（保留網址）",
+              "url": "https://www.tobu.co.jp/tcn/ticket/kawagoe/premium.html"
+            }
+          ]
+        },
+        {
+          "title": "Skyliner → 成田機場",
+          "bullets": [
+            "日暮里上車，車程約 40 分鐘（以當日班次為準）",
+            "請依官方頁面確認購票、指定席與乘車資訊"
+          ],
+          "links": [
+            {
+              "label": "官方介紹（保留網址）",
+              "url": "https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php"
+            }
+          ]
+        }
+      ]
+    },
+    "flights": {
+      "status": "ok",
+      "title": "航班",
+      "top_link": {
+        "label": "Google Drive（票券/QR）",
+        "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+      },
+      "flights": [
+        {
+          "date": "20Dec2025",
+          "flight_no": "CI154",
+          "from": "TPE",
+          "to": "NGO",
+          "dep": "07:35",
+          "arr": "11:05",
+          "meals": "None",
+          "price_roundtrip": "NTD 16,990 / person",
+          "luggage": "23 kg / person"
+        },
+        {
+          "date": "27Dec2025",
+          "flight_no": "BR195",
+          "from": "NRT",
+          "to": "TPE",
+          "dep": "20:20",
+          "arr": "23:25",
+          "meals": "Free",
+          "price_roundtrip": "NTD 12,025 / person",
+          "luggage": "23 kg*2 / person"
+        }
+      ]
+    },
+    "stays": {
+      "status": "ok",
+      "title": "住宿",
+      "stays": [
+        {
+          "name": "Gold Stay Nagoya Sakae",
+          "city": "名古屋",
+          "dates": [
+            "2025-12-20",
+            "2025-12-23"
+          ],
+          "notes": []
+        },
+        {
+          "name": "OMO5 東京大塚 by 星野集團",
+          "city": "東京",
+          "dates": [
+            "2025-12-23",
+            "2025-12-27"
+          ],
+          "notes": []
+        }
+      ]
+    },
+    "cloud": {
+      "status": "ok",
+      "title": "雲端",
+      "sections": [
+        {
+          "title": "文件",
+          "links": [
+            {
+              "label": "Google Drive",
+              "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+            }
+          ]
+        },
+        {
+          "title": "票券",
+          "links": [
+            {
+              "label": "Google Drive",
+              "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+            }
+          ]
+        },
+        {
+          "title": "QR code 集中頁",
+          "links": [
+            {
+              "label": "Google Drive",
+              "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

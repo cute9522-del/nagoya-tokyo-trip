@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "title": "航班",
+  "top_link": {
+    "label": "Google Drive（票券/QR）",
+    "url": "https://drive.google.com/drive/folders/18KY7YC3iVNASFFQot4U9YoQ0sr8bDUhh"
+  },
+  "flights": [
+    {
+      "date": "20Dec2025",
+      "flight_no": "CI154",
+      "from": "TPE",
+      "to": "NGO",
+      "dep": "07:35",
+      "arr": "11:05",
+      "meals": "None",
+      "price_roundtrip": "NTD 16,990 / person",
+      "luggage": "23 kg / person"
+    },
+    {
+      "date": "27Dec2025",
+      "flight_no": "BR195",
+      "from": "NRT",
+      "to": "TPE",
+      "dep": "20:20",
+      "arr": "23:25",
+      "meals": "Free",
+      "price_roundtrip": "NTD 12,025 / person",
+      "luggage": "23 kg*2 / person"
+    }
+  ]
+}

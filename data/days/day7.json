@@ -1,0 +1,355 @@
+{
+  "day": 7,
+  "date": "2025-12-26",
+  "title": "銀座 × 日本橋 × 淺草",
+  "status": "ok",
+  "theme": "甜點名店＋選物購物＋淺草散策（行李任務：Ginza Karen 行李箱）",
+  "cards": [
+    {
+      "time": "08:00",
+      "title": "OMO5 東京大塚 by 星野集團",
+      "category": "住宿",
+      "tag": "出發/退房",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "退房後出發，建議輕裝",
+              "今日購物多，注意背包空間"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "OMO5 Access",
+            "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+          }
+        ]
+      }
+    },
+    {
+      "time": "09:26",
+      "title": "No.4",
+      "category": "咖啡/早午餐",
+      "tag": "必吃",
+      "detail": {
+        "sections": [
+          {
+            "title": "定位",
+            "bullets": [
+              "東京代表性的烘焙系早午餐名店（近麴町・市谷一帶）",
+              "以「麵包品質本位」聞名，咖啡與烘焙圈評價高"
+            ]
+          },
+          {
+            "title": "推薦必點（Menu）",
+            "bullets": [
+              "酸種麵包搭配奶油與果醬（招牌）",
+              "可頌（層次清楚、不油膩）",
+              "手沖/美式咖啡",
+              "炒蛋＋香腸＋培根全套早餐"
+            ]
+          },
+          {
+            "title": "小提醒",
+            "bullets": [
+              "建議一開店就到，熱門時段需排隊",
+              "用餐時間約 60–90 分鐘；快吃、不久坐"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "10:46",
+      "title": "bills Ginza",
+      "category": "甜點/早午餐",
+      "tag": "招牌名店",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "銀座店空間舒適、採光好",
+              "招牌為 Ricotta Pancake（瑞可達鬆餅）"
+            ]
+          },
+          {
+            "title": "推薦必點（Menu）",
+            "bullets": [
+              "Ricotta Pancake（蜂蜜＋香蕉）",
+              "炒蛋早餐盤",
+              "酪梨早餐盤",
+              "Flat White/拿鐵"
+            ]
+          },
+          {
+            "title": "小提醒",
+            "bullets": [
+              "排隊時間不固定（假日較久）"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "11:50",
+      "title": "noix de beurre Ginza Mitsukoshi",
+      "category": "甜點/伴手禮",
+      "tag": "必買",
+      "detail": {
+        "sections": [
+          {
+            "title": "必點（menu）",
+            "bullets": [
+              "現烤費南雪（原味/抹茶）",
+              "Madeleine（瑪德蓮）"
+            ]
+          },
+          {
+            "title": "推薦購買（buy）",
+            "bullets": [
+              "費南雪禮盒（保質期短但風味最佳）"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "12:14",
+      "title": "PUDDING LAB",
+      "category": "甜點",
+      "tag": "布丁",
+      "detail": {
+        "sections": [
+          {
+            "title": "必點（menu）",
+            "bullets": [
+              "原味焦糖布丁",
+              "濃厚雞蛋布丁"
+            ]
+          },
+          {
+            "title": "推薦購買（buy）",
+            "bullets": [
+              "布丁禮盒（冷藏）"
+            ]
+          },
+          {
+            "title": "小提醒（tips）",
+            "bullets": [
+              "需冷藏，注意後續行程時間",
+              "建議即買即吃"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "12:38",
+      "title": "覺王山水果大福 弁才天（GINZA SIX）",
+      "category": "甜點",
+      "tag": "話題名店",
+      "detail": {
+        "sections": [
+          {
+            "title": "必點（menu）",
+            "bullets": [
+              "草莓大福",
+              "季節限定水果大福（葡萄/哈密瓜）"
+            ]
+          },
+          {
+            "title": "小提醒（tips）",
+            "bullets": [
+              "建議現吃，口感最佳"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "13:08",
+      "title": "五代目 花山烏冬 銀座店",
+      "category": "午餐",
+      "tag": "必吃",
+      "detail": {
+        "sections": [
+          {
+            "title": "必點（menu）",
+            "bullets": [
+              "鬼寬烏龍麵（招牌）",
+              "冷烏龍沾麵"
+            ]
+          },
+          {
+            "title": "小提醒（tips）",
+            "bullets": [
+              "用餐尖峰需排隊",
+              "麵條較有嚼勁，適合喜歡口感派的人"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "14:13",
+      "title": "銀座",
+      "category": "商圈",
+      "tag": "購物重點",
+      "detail": {
+        "sections": [
+          {
+            "title": "百貨集中",
+            "bullets": [
+              "銀座三越",
+              "GINZA SIX",
+              "松屋銀座"
+            ]
+          },
+          {
+            "title": "可逛品牌",
+            "bullets": [
+              "日系服飾、香氛、文具、伴手禮"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "15:30",
+      "title": "BONGEN COFFEE Tokyo Nihonbashi",
+      "category": "咖啡",
+      "tag": "靜態休息",
+      "detail": {
+        "sections": [
+          {
+            "title": "必點（menu）",
+            "bullets": [
+              "Hand-drip 咖啡",
+              "抹茶拿鐵"
+            ]
+          },
+          {
+            "title": "小提醒（tips）",
+            "bullets": [
+              "座位少，多為外帶",
+              "適合短停 20–30 分鐘"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "16:14",
+      "title": "Ginza Karen",
+      "category": "購物",
+      "tag": "任務：買行李箱",
+      "detail": {
+        "sections": [
+          {
+            "title": "備註",
+            "bullets": [
+              "確認尺寸是否符合回程航空規範",
+              "可詢問退稅"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "17:05",
+      "title": "淺草",
+      "category": "區域",
+      "tag": "散策",
+      "detail": {
+        "sections": [
+          {
+            "title": "重點",
+            "bullets": [
+              "傍晚氛圍佳，可慢慢走、拍照"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "17:15",
+      "title": "Milk no Ki",
+      "category": "甜點",
+      "tag": "休息",
+      "detail": {
+        "sections": [
+          {
+            "title": "必點（menu）",
+            "bullets": [
+              "牛奶冰淇淋",
+              "牛奶布丁"
+            ]
+          },
+          {
+            "title": "評價（reviews）",
+            "bullets": [
+              "牛奶風味自然不膩",
+              "適合作為晚間甜點收尾"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "18:57",
+      "title": "上野阿美橫町",
+      "category": "商圈",
+      "tag": "晚間逛街",
+      "detail": {
+        "sections": [
+          {
+            "title": "可補貨",
+            "bullets": [
+              "零食",
+              "藥妝",
+              "小物"
+            ]
+          }
+        ],
+        "links": []
+      }
+    },
+    {
+      "time": "20:26",
+      "title": "OMO5 東京大塚 by 星野集團",
+      "category": "住宿",
+      "tag": "返回",
+      "detail": {
+        "sections": [
+          {
+            "title": "備註",
+            "bullets": [
+              "回飯店整理戰利品",
+              "隔天為川越＋返程準備"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "OMO5 Access",
+            "url": "https://hoshinoresorts.com/en/hotels/omo5tokyootsuka/access/"
+          }
+        ]
+      }
+    }
+  ]
+}
