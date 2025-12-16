@@ -96,7 +96,7 @@ h1{margin: 0 0 10px; font-size: 20px}
   color: var(--muted);
   background: rgba(255,255,255,.03);
 }
-.badge--ok{color:#b7f7d4; border-color: rgba(183,247,212,.2); background: rgba(183,247,212,.06)}
+.badge--ok{color:#fff6d7; border-color: rgba(183,247,212,.2); background: rgba(183,247,212,.06)}
 .badge--warn{color:#ffe0a6; border-color: rgba(255,224,166,.18); background: rgba(255,224,166,.06)}
 .daysHeader{display:flex; flex-direction:column; gap:10px}
 .segmented{
