@@ -1,7 +1,391 @@
 {
   "day": 2,
   "date": "2025-12-21",
-  "title": "（待補）",
-  "status": "todo",
-  "cards": []
+  "title": "高山・白川鄉一日團",
+  "subtitle": "Takayama / Shirakawa-go",
+  "notes": [
+    "高山停留約 90 分鐘",
+    "白川鄉停留約 150 分鐘",
+    "18:00 抵達名古屋站（VIP Liner 一日團限制）"
+  ],
+  "cards": [
+    {
+      "time": "06:00",
+      "title": "Gold Stay Nagoya Sakae",
+      "type": "hotel",
+      "tag": "出發",
+      "brief": "早餐後出發，整理隨身行李",
+      "details": {
+        "description": [
+          "配合一日團集合時間，建議提早準備。",
+          "不必要物品可寄放於飯店。",
+          "建議攜帶少量現金。"
+        ]
+      }
+    },
+    {
+      "time": "07:45",
+      "title": "名古屋車站（VIP Liner 集合）",
+      "type": "transport",
+      "tag": "一日團",
+      "brief": "依 VIP Liner 指示集合",
+      "details": {
+        "official": "https://vipliner.biz/",
+        "description": [
+          "請依票券與集合信件指示位置集合。",
+          "建議提前 10 分鐘抵達。"
+        ]
+      }
+    },
+    {
+      "time": "07:50",
+      "title": "名古屋 VIP Liner 巴士",
+      "type": "transport",
+      "tag": "巴士",
+      "brief": "搭乘巴士前往高山",
+      "details": {
+        "official": "https://vipliner.biz/",
+        "description": [
+          "車程較長，建議補眠。",
+          "途中視情況休息站停留。"
+        ]
+      }
+    },
+    {
+      "time": "10:30",
+      "title": "高山老街",
+      "type": "spot",
+      "tag": "主行程",
+      "brief": "高山古街散步與飛驒牛美食集中區",
+      "details": {
+        "stay": "約 90 分鐘",
+        "official": "https://www.hidatakayama.or.jp/",
+        "spots": [
+          {
+            "name": "飛驒老街（上三之町）",
+            "official": "https://www.hidatakayama.or.jp/spot/detail_8.html",
+            "menu": [],
+            "buy": [
+              "飛驒地方清酒（小瓶）",
+              "手工和菓子、米菓"
+            ],
+            "reviews": [
+              "高山老街主軸路段，傳統木造町屋林立。",
+              "適合邊走邊拍照。"
+            ],
+            "tips": [
+              "以街道散步為主，不需全部走完。",
+              "石板路略滑，建議穿好走的鞋。"
+            ]
+          },
+          {
+            "name": "Andersen 高山老街店",
+            "official": "https://www.andersen.co.jp/",
+            "menu": [
+              "小份麵包",
+              "甜麵包"
+            ],
+            "buy": [
+              "外帶麵包"
+            ],
+            "reviews": [
+              "丹麥系麵包品牌，品質穩定。",
+              "適合作為途中補充能量。"
+            ],
+            "tips": [
+              "不建議久留，快速外帶即可。"
+            ]
+          },
+          {
+            "name": "小瀨德魚店",
+            "official": "https://www.hidatakayama.or.jp/spot/detail_150.html",
+            "menu": [],
+            "buy": [
+              "魚乾",
+              "佃煮"
+            ],
+            "reviews": [
+              "販售當地特色乾物的小店。",
+              "外觀低調但商品有地方特色。"
+            ],
+            "tips": [
+              "可少量購買作為伴手禮。"
+            ]
+          },
+          {
+            "name": "宮川朝市",
+            "official": "https://www.hidatakayama.or.jp/spot/detail_6.html",
+            "menu": [],
+            "buy": [
+              "蘋果",
+              "醃漬物",
+              "手作小點心"
+            ],
+            "reviews": [
+              "沿河岸設立的露天市集。",
+              "販售農產品與手工製品。"
+            ],
+            "tips": [
+              "若接近中午可快速瀏覽即可。",
+              "現金交易為主。"
+            ]
+          },
+          {
+            "name": "飛驒特牛 壽司專賣店",
+            "official": "https://hidagyu-sushi.jp/",
+            "menu": [
+              "飛驒牛握壽司"
+            ],
+            "buy": [],
+            "reviews": [
+              "高山必吃代表之一。",
+              "油花細緻、入口即化。"
+            ],
+            "tips": [
+              "站著吃為主，快速完成即可移動。"
+            ]
+          },
+          {
+            "name": "Takayama Rinseido",
+            "official": "https://www.rinseido.com/",
+            "menu": [
+              "日式和菓子"
+            ],
+            "buy": [
+              "單顆和菓子"
+            ],
+            "reviews": [
+              "當地和菓子老舖。",
+              "口味傳統、甜度適中。"
+            ],
+            "tips": [
+              "適合作為飯後甜點。"
+            ]
+          },
+          {
+            "name": "Noix De Coco（宮川朝市周邊）",
+            "official": "https://www.instagram.com/noixdecoco/",
+            "menu": [
+              "可麗露",
+              "小甜點"
+            ],
+            "buy": [
+              "外帶甜點"
+            ],
+            "reviews": [
+              "朝市周邊人氣甜點店。",
+              "外觀好看、口味清爽。"
+            ],
+            "tips": [
+              "快速買、快速走，不用排隊。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "time": "12:30",
+      "title": "Seseragi Park Parking Lot",
+      "type": "transport",
+      "tag": "移動",
+      "brief": "巴士停車場，下車進入白川鄉",
+      "details": {
+        "description": [
+          "由此步行進入白川鄉聚落。"
+        ]
+      }
+    },
+    {
+      "time": "12:30",
+      "title": "白川鄉合掌造聚落",
+      "type": "spot",
+      "tag": "主行程",
+      "brief": "世界遺產合掌村散步與拍照",
+      "details": {
+        "stay": "約 150 分鐘",
+        "official": "https://shirakawa-go.gr.jp/",
+        "spots": [
+          {
+            "name": "白川鄉合掌造聚落",
+            "official": "https://shirakawa-go.gr.jp/",
+            "menu": [],
+            "buy": [],
+            "reviews": [
+              "世界文化遺產聚落。",
+              "合掌造茅草屋群為主要特色。"
+            ],
+            "tips": [
+              "不需走遍全部，挑重點拍照即可。"
+            ]
+          },
+          {
+            "name": "天守閣展望台",
+            "official": "https://shirakawa-go.gr.jp/see/tenboudai/",
+            "menu": [],
+            "buy": [],
+            "reviews": [
+              "俯瞰整個合掌造聚落的經典角度。"
+            ],
+            "tips": [
+              "需步行上坡，視體力與人潮決定是否前往。"
+            ]
+          },
+          {
+            "name": "豆吉本舖（白川鄉店）",
+            "official": "https://www.mamekichi.com/",
+            "menu": [],
+            "buy": [
+              "綜合豆菓",
+              "小包裝伴手禮"
+            ],
+            "reviews": [
+              "豆菓口味多樣。",
+              "適合作為輕量伴手禮。"
+            ],
+            "tips": [
+              "可少量購買即可。"
+            ]
+          },
+          {
+            "name": "白川鄉 布丁的家",
+            "official": "https://shirakawa-go.gr.jp/spot/detail_223.html",
+            "menu": [
+              "原味布丁"
+            ],
+            "buy": [],
+            "reviews": [
+              "主打手工布丁。",
+              "口感滑順。"
+            ],
+            "tips": [
+              "建議當場食用。"
+            ]
+          },
+          {
+            "name": "古屋咖啡館 落人",
+            "official": "https://www.instagram.com/ochudo_shirakawago/",
+            "menu": [
+              "熱咖啡"
+            ],
+            "buy": [],
+            "reviews": [
+              "老屋改建咖啡館，空間安靜。"
+            ],
+            "tips": [
+              "作為中途休息點即可。"
+            ]
+          },
+          {
+            "name": "烤糰子・飛驒牛 ぜん助",
+            "official": "https://www.instagram.com/zensuke_shirakawago/",
+            "menu": [
+              "醬油烤糰子",
+              "飛驒牛串"
+            ],
+            "buy": [],
+            "reviews": [
+              "在地小吃攤。",
+              "適合邊走邊吃。"
+            ],
+            "tips": [
+              "擇一即可，不需都吃。"
+            ]
+          },
+          {
+            "name": "Yuinisato 可樂餅",
+            "official": "https://shirakawa-go.gr.jp/spot/detail_242.html",
+            "menu": [
+              "可樂餅"
+            ],
+            "buy": [],
+            "reviews": [
+              "炸物小吃攤。",
+              "份量不大。"
+            ],
+            "tips": [
+              "行走間小吃即可。"
+            ]
+          },
+          {
+            "name": "相逢橋",
+            "official": "https://shirakawa-go.gr.jp/see/bridge/",
+            "menu": [],
+            "buy": [],
+            "reviews": [
+              "經典拍照橋樑。",
+              "河景與聚落構圖佳。"
+            ],
+            "tips": [
+              "黃昏光線最好。"
+            ]
+          },
+          {
+            "name": "白川鄉三小屋",
+            "official": "https://shirakawa-go.gr.jp/see/house/",
+            "menu": [],
+            "buy": [],
+            "reviews": [
+              "位置較安靜的小型合掌造。"
+            ],
+            "tips": [
+              "作為散步終點即可。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "time": "18:00",
+      "title": "名古屋車站",
+      "type": "transport",
+      "tag": "回程",
+      "brief": "返回名古屋市區",
+      "details": {}
+    },
+    {
+      "time": "18:20",
+      "title": "綠洲 21",
+      "type": "spot",
+      "tag": "夜景",
+      "brief": "夜景散步",
+      "details": {
+        "official": "https://www.sakaepark.co.jp/",
+        "description": [
+          "可簡單散步拍照。",
+          "視體力彈性停留。"
+        ]
+      }
+    },
+    {
+      "time": "18:50",
+      "title": "麵家獅子丸",
+      "type": "food",
+      "tag": "晚餐",
+      "brief": "名古屋人氣拉麵",
+      "details": {
+        "official": "https://menya-shishimaru.com/",
+        "menu": [
+          "雞白湯拉麵",
+          "醬油拉麵"
+        ],
+        "buy": [],
+        "reviews": [
+          "名古屋車站周邊高評價拉麵店。",
+          "湯頭濃郁但不膩。"
+        ],
+        "tips": [
+          "晚餐尖峰可能需排隊。",
+          "適合作為一日團收尾。"
+        ]
+      }
+    },
+    {
+      "time": "21:00",
+      "title": "Gold Stay Nagoya Sakae",
+      "type": "hotel",
+      "tag": "住宿",
+      "brief": "入住休息",
+      "details": {}
+    }
+  ]
 }
