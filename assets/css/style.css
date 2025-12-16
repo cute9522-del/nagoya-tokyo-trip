@@ -1,16 +1,14 @@
-:root{
-  --bg:#0b0d12;
-  --panel:#111521;
-  --card:#161c2b;
-  --card2:#1b2436;
-  --text:#f2f4f8;
-  --muted:#a9b2c3;
-  --line:rgba(255,255,255,.08);
-  --accent:#8ab4ff;
-  --shadow: 0 12px 30px rgba(0,0,0,.45);
-  --radius:16px;
-  --radius2:12px;
-  --tap:44px;
+:root {
+  --primary-color: #2f2f2f;
+  --secondary-color: #6b6b6b;
+  --muted-color: #9ca3af;
+  --accent-color: #4b5563;
+  --bg-color: #f7f6f3;
+  --bg-soft-color: #efede8;
+  --card-bg: #ffffff;
+  --border-color: #e0ded9;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.06);
 }
 *{box-sizing:border-box}
 html,body{height:100%}
