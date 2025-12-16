@@ -1,7 +1,350 @@
 {
   "day": 1,
   "date": "2025-12-20",
-  "title": "（待補）",
-  "status": "todo",
-  "cards": []
+  "title": "Day 1｜抵達名古屋｜大須 × 榮商圈",
+  "cards": [
+    {
+      "time": "03:00",
+      "title": "台中（機場接送）",
+      "category": "交通",
+      "officialSite": "",
+      "details": {
+        "description": [
+          "前往桃園機場，建議提前確認接送時間與車牌",
+          "接送順序：",
+          "1. 神林路一段217巷12號",
+          "2. 陝西二街30號",
+          "3. 美村路一段30號",
+          "4. 新興路25巷1弄6號"
+        ],
+        "tips": [
+          "行李建議：托運液體與電器先分裝"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "04:53",
+      "title": "TPE 桃園國際機場 → NGO（CI154）",
+      "category": "航班",
+      "officialSite": "https://www.china-airlines.com/tw/zh",
+      "links": [
+        {
+          "title": "Visit Japan Web",
+          "url": "https://www.vjw.digital.go.jp/"
+        }
+      ],
+      "details": {
+        "description": [
+          "航班：CI154",
+          "起飛：07:35",
+          "抵達：11:05（名古屋 NGO）"
+        ],
+        "tips": [
+          "隨身行李液體 ≤100ml",
+          "行動電源需隨身",
+          "入境日本事先填 Visit Japan Web"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "11:05",
+      "title": "NGO 中部國際機場（抵達）",
+      "category": "交通",
+      "officialSite": "https://www.centrair.jp/en/",
+      "details": {
+        "description": [
+          "入境 → 行李 → 換匯 / 網卡",
+          "機場動線清楚，約 40–60 分鐘完成"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "11:30",
+      "title": "μ-SKY 前往名鐵名古屋",
+      "category": "交通",
+      "officialSite": "https://www.meitetsu.co.jp/eng/airport-access/mu-sky/",
+      "details": {
+        "description": [
+          "指定席特急，直達名鐵名古屋站",
+          "約 30 分鐘",
+          "抵達後可先寄放行李（置物櫃／飯店）",
+          "可使用 IC 卡或現場購票"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "12:40",
+      "title": "名古屋車站",
+      "category": "市區",
+      "details": {
+        "description": [
+          "置物櫃 / 飯店寄放行李",
+          "作為轉乘與補給點"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "12:50",
+      "title": "UNIQLO 名古屋店",
+      "category": "購物・服飾",
+      "officialSite": "https://www.uniqlo.com/jp/",
+      "details": {
+        "description": [
+          "位於名古屋站周邊的大型 UNIQLO。",
+          "可補齊旅途中基本服飾、發熱衣、襪類",
+          "店面空間大，款式齊全",
+          "適合作為抵達市區後的第一個實用型購物點"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "13:25",
+      "title": "Coffee House Kako",
+      "category": "咖啡（必吃）",
+      "officialSite": "https://www.instagram.com/coffeehousekako/",
+      "details": {
+        "menu": [
+          "四格自製果醬 + 小倉紅豆泥厚片吐司（四色吐司拼盤）－吐司外酥內軟，果醬酸甜平衡，搭配奶油或紅豆泥層次豐富",
+          "自家烘焙深焙黑咖啡－苦韻厚實、香氣濃郁，與吐司非常搭",
+          "咖啡凍加香草冰淇淋－咖啡香氣明顯，口感滑順不甜膩"
+        ],
+        "buy": [
+          "店內自製果醬（若當日有販售，可外帶作為伴手禮）"
+        ],
+        "reviews": [
+          "名古屋老牌喫茶店，歷史悠久，是當地早餐文化代表之一",
+          "部落客盛讚吐司口感層次豐富、果醬不甜膩且色彩誘人，非常適合拍照與慢食",
+          "咖啡香濃、吐司搭配得宜，是當地早餐文化的一部分"
+        ],
+        "tips": [
+          "部分分店座位有限，熱門時段可能需等待",
+          "建議早上或下午時段前往，避免中午客滿",
+          "中午易滿座，但翻桌速度快",
+          "點飲料通常會附吐司或早餐組合（名古屋早餐文化）",
+          "店內空間不大，攜帶大型行李較不方便"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "14:15",
+      "title": "三輪神社",
+      "category": "景點",
+      "officialSite": "https://www.nagoya-info.jp/spot/detail/116/",
+      "details": {
+        "description": [
+          "位於大須商圈內",
+          "以結緣、戀愛祈願聞名",
+          "可簡短停留拍照、參拜",
+          "位於大須商店街內的小型神社，以結緣與人際關係聞名",
+          "主祀「大國主命」，象徵良緣與圓滿",
+          "常見粉色或繽紛御守，外觀可愛"
+        ],
+        "menu": [
+          "結緣參拜路線（主殿）",
+          "心願繪馬祈願"
+        ],
+        "buy": [
+          "結緣御守",
+          "愛情、友情相關御守款式"
+        ],
+        "reviews": [
+          "名古屋市區少見以「結緣」聞名的神社",
+          "地點隱身於大須一帶，氣氛安靜、不商業化",
+          "常被安排作為大須商店街前的順路參拜點"
+        ],
+        "tips": [
+          "停留時間約 10–15 分鐘即可",
+          "建議參拜後直接銜接大須商店街動線",
+          "神社範圍不大，適合輕鬆拍照與短暫停留"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "14:51",
+      "title": "大須商店街",
+      "category": "商圈",
+      "officialSite": "https://osu.nagoya/en/",
+      "details": {
+        "description": [
+          "名古屋最具代表性的老商圈之一，結合傳統與次文化",
+          "類型：小吃、古著、二手、動漫周邊、雜貨",
+          "動線為街區型，可自由穿插逛街",
+          "作為「隨走隨吃」區域"
+        ],
+        "tips": [
+          "建議動線：神社 → 主街 → 巷內小店",
+          "停留建議：60–90 分鐘",
+          "現金小店多，建議準備零錢"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "16:24",
+      "title": "HARBS 本店",
+      "category": "甜點（必吃）",
+      "officialSite": "https://www.harbs.co.jp/",
+      "details": {
+        "description": [
+          "招牌：水果千層",
+          "建議：若排隊長可外帶",
+          "下午茶時段較擁擠"
+        ],
+        "menu": [
+          "水果千層蛋糕 Mille Crepes（人氣 No.1）",
+          "Fresh Fruit Cake（與千層不同的鮮果蛋糕）",
+          "義大利麵、歐姆蕾飯（套餐附沙拉；口碑也不錯）"
+        ],
+        "buy": [
+          "外帶蛋糕（因為內用需點飲料，外帶更划算）"
+        ],
+        "reviews": [
+          "HARBS 是來自名古屋的經典水果蛋糕專門店，甜點新鮮、奶油不膩，深受遊客好評",
+          "蛋糕尺寸大、價格合理，CP 值高",
+          "即使需要排隊，多數人仍認為值得"
+        ],
+        "tips": [
+          "若想省錢或快速拿到甜點可選外帶（內用有最低消費限制）",
+          "蛋糕人氣高，下午／周末易排隊，可考慮避開尖峰時段",
+          "蛋糕份量偏大，兩人分食也足夠"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "17:00",
+      "title": "榮商圈",
+      "category": "商圈",
+      "details": {
+        "description": [
+          "名古屋主要市中心商圈，百貨與地下街密集",
+          "整體步行動線順，適合下午至傍晚慢逛"
+        ],
+        "malls": [
+          {
+            "name": "SKYLE",
+            "officialSite": "https://www.skyle.co.jp/",
+            "note": "流行服飾、生活雜貨"
+          },
+          {
+            "name": "Nagoya PARCO",
+            "officialSite": "https://nagoya.parco.jp/",
+            "note": "潮流品牌、動漫聯名、選物店"
+          },
+          {
+            "name": "榮 森之地下街",
+            "officialSite": "https://www.sakaechika.com/",
+            "note": "地下街商店、餐飲集中，雨天友善"
+          }
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "20:37",
+      "title": "唐吉訶德 榮本店",
+      "category": "購物",
+      "officialSite": "https://www.donki.com/",
+      "details": {
+        "description": [
+          "晚間集中採買美妝、電器與雜貨"
+        ],
+        "buy": [
+          "Sofina iP Moisture Care Shot（妝前／補水）",
+          "CANMAKE 遮瑕類",
+          "CalyPso Magic Concealer",
+          "SALONIA 無線離子夾（⚠️ 購買後立刻取出電池）",
+          "演唱會補給小物"
+        ],
+        "tips": [
+          "唐吉訶德退稅櫃台晚間排隊",
+          "建議最後再集中購買",
+          "美容電器海關會檢查，建議隨身攜帶"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "22:21",
+      "title": "風來坊手羽先（Furaibo Sakae 元祖手羽先）",
+      "category": "餐廳",
+      "officialSite": "https://www.furaibo.co.jp/",
+      "details": {
+        "description": [
+          "名古屋名物：手羽先",
+          "口味偏重，適合配飲料",
+          "可點少量多樣"
+        ],
+        "menu": [
+          "招牌手羽先炸雞翅（外皮微脆、醬味不膩）",
+          "雞肉料理拼盤、烤系列"
+        ],
+        "buy": [
+          "搭配檸檬酸酒或啤酒套餐更爽口"
+        ],
+        "reviews": [
+          "名古屋手羽先元祖之一，具代表性",
+          "口味偏重，適合當地名物體驗",
+          "在地人與上班族常客聚餐首選，口味穩定、份量足",
+          "TripAdvisor 評價約 4/5 分"
+        ],
+        "tips": [
+          "菜單多為日文圖片點餐，可先看照片比對",
+          "晚餐時段易排隊，尖峰需候位",
+          "份量偏多，建議適量點餐",
+          "若太疲累可選擇外帶"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "23:24",
+      "title": "Gold Stay Nagoya Sakae",
+      "category": "住宿",
+      "officialSite": "https://goldstay.jp/location/nagoya-sakae/",
+      "details": {
+        "description": [
+          "入住休息"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+    {
+      "time": "00:34",
+      "title": "宵夜備案｜日々是好日 新栄店",
+      "category": "餐廳",
+      "details": {
+        "description": [
+          "日式居酒屋，作為晚間備案",
+          "提供關東煮、簡單熱食與酒類",
+          "視體力與時間前往"
+        ]
+      },
+      "images": { "spotImages": [], "menuImages": [], "buyImages": [] }
+    },
+
+  
+  ]
 }
